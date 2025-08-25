@@ -1,0 +1,1 @@
+# Mimikatz Credential Dump Report
